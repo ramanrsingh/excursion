@@ -3,6 +3,7 @@
 }
 body{
     background-color: black;
+    margin: 10px 30px;
 }
 
 header h1{
@@ -46,4 +47,15 @@ header h1{
 
 footer{
     margin-top: 40px;
+}
+
+footer p{
+    color: gray;
+    text-align: right;
+    padding-left: 10px;
+    font-weight: 700;
+}
+
+footer p i{
+    margin-right: 10px;
 }
